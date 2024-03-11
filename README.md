@@ -18,3 +18,5 @@ stats220 is also _necessary_ for learning R programming.
 
 Here is the website of course outline of stats201/208.
 [stats 201/208 course outline](https://courseoutline.auckland.ac.nz/dco/course/STATS/201/1215)
+
+I took Korean 110G 🇰🇷 and received a good mark.
