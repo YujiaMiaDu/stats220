@@ -1,4 +1,4 @@
-# overview of my courses 2 
+# overview of my courses 
 
 1. stats220
 2. stats125
@@ -9,7 +9,7 @@ stats220 is __important__.
 
 stats220 is also _necessary_ for learning R programming.
 
-### overview of my next semster's courses 3
+### overview of my next semster's courses 
 
 - stats201/208
 - stats240
