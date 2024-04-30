@@ -1,3 +1,5 @@
+![image](https://github.com/YujiaMiaDu/stats220/assets/162855664/e208e00c-404d-43e0-a2d3-05e7cebff8d4)
+
 # overview of my courses 
 
 1. stats220
@@ -20,3 +22,5 @@ Here is the website of course outline of stats201/208.
 [stats 201/208 course outline](https://courseoutline.auckland.ac.nz/dco/course/STATS/201/1215)
 
 I took Korean 110G 🇰🇷 and received a good mark.
+
+
